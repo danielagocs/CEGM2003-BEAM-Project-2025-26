@@ -1,0 +1,5 @@
+# Contribution to the project
+
+_Bart Slingerland - 5309913_
+
+During the Data Science and AI for Engineering group project, I contributed consistently throughout the development and finalization of our PyTorch-based models for analyzing Euler–Bernoulli and Timoshenko beam deflection. I actively participated in our Friday afternoon meetings during the first six weeks, helping coordinate progress and contributing directly to the initial implementation of the fully connected neural network and an early baseline for the PINN approach (later extended by other group members). Building on those improvements, Koen and I developed an inverse-model variant that used measured deflection and rotation to predict the applied force. In the final week, I also helped finalize deliverables and prepare the presentation.
