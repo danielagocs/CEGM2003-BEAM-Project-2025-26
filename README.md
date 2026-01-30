@@ -6,6 +6,6 @@ In this README we give instructions for the folders.
 |---------------|-------------------|--------------------------------------------------|------------------|---------------|-----------|
 |               |                   |                                                  | Layer number    | Hidden features | Optimizer |
 | FNN           | 3.1               |Feedforward Neural Network without PINN         |                  |               |           |
-| Euler-Bernoulli | 3.2.1      Euler-Bernoulli beam model      |                       |                  |               |AdamW|
+| Euler-Bernoulli | 3.2.1      Euler-Bernoulli beam model      | Two separate models for L1 and L2 norms                      |                  |               |AdamW|
 |Timo L1 v L2|3.2.2  Timoshenko beam model|Two separate models for L1 and L2 norms + comparison|L1 = 3, L2 = 2|L1 = 250, L2 = 100|Adam|
 | Inverse problem | 3.2.2           | Inverse problem implementation                  |                  |               |           |
